@@ -15,9 +15,9 @@ using std::abs;
 
 using namespace std::chrono;
 
-const double eps = 1e-8; 
-const double TINY = 1e-22;
-const double Safety = 0.9;
+double eps = 1e-8; 
+double TINY = 1e-22;
+double Safety = 0.9;
 
 
 /*************************
