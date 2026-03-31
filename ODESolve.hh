@@ -15,10 +15,6 @@ using std::abs;
 
 using namespace std::chrono;
 
-double eps = 1e-8; 
-double TINY = 1e-22;
-double Safety = 0.9;
-
 
 /*************************
 / template class ODESolve
